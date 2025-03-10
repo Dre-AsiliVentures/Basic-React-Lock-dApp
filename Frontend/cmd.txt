@@ -1,0 +1,7 @@
+mkdir frontend
+cd frontend
+npx create-react-app .
+npm install ethers
+npm start
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p

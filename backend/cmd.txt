@@ -1,0 +1,7 @@
+npm init -y
+npm install --save-dev hardhat
+npm install --save-dev @nomicfoundation/hardhat-toolbox
+npx hardhat init
+npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.js --network localhost

@@ -1,0 +1,18 @@
+lock-dapp/
+│── backend/          # Hardhat project (Solidity + Scripts)
+│   ├── contracts/
+│   │   ├── Lock.sol
+│   ├── scripts/
+│   │   ├── deploy.js
+│   ├── test/
+│   │   ├── Lock.test.js
+│   ├── hardhat.config.js
+│   ├── package.json
+│   ├── README.md
+│── frontend/         # React dApp (User Interface)
+│   ├── src/
+│   │   ├── App.js
+│   │   ├── Lock.js
+|   |   |── index.js
+│   ├── package.json
+│   ├── README.md

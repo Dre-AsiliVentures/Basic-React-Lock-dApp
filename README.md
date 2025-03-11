@@ -3,7 +3,7 @@
 This is a **simple decentralized application (dApp)** built with **React (frontend)** and **Solidity (backend)** that allows users to **lock Ether** in a smart contract and withdraw it after a specified unlock time.
 
 ---
-!["Basic-React-Lock-dApp]("https://github.com/Dre-AsiliVentures/Basic-React-Lock-dApp/blob/master/img/Screenshot_2025-03-11_131511.png")
+![Basic-React-Lock-dApp]("https://github.com/Dre-AsiliVentures/Basic-React-Lock-dApp/blob/master/img/Screenshot_2025-03-11_131511.png")
 
 ## **📌 Features**
 ✅ Lock Ether until a specific timestamp  

@@ -47,8 +47,8 @@ lock-dapp/
 ## **🚀 Getting Started**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/lock-dapp.git
-cd lock-dapp
+git clone https://github.com/Dre-AsiliVentures/Basic-React-Lock-dApp.git
+cd Basic-React-Lock-dApp
 ```
 
 ### **2️⃣ Install Dependencies**
@@ -108,7 +108,7 @@ contract Lock {
     }
 
     function deposit() public payable {
-        require(msg.value > 0, "Weka Deposit kubwa!!");
+        require(msg.value > 0, "Weka Deposit amount kubwa!!");
 
         emit Deposit(msg.value, block.timestamp);
     }
@@ -256,4 +256,4 @@ This project is **open-source** and available under the **MIT License**.
 
 ---
 
-🎉 **Enjoy your Lock dApp!** Let me know if you need any improvements. 🚀🔥
+🎉 **Enjoy this React Lock dApp!** Let me know if you need any improvements. 🚀🔥

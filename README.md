@@ -3,7 +3,7 @@
 This is a **simple decentralized application (dApp)** built with **React (frontend)** and **Solidity (backend)** that allows users to **lock Ether** in a smart contract and withdraw it after a specified unlock time.
 
 ---
-![Basic-React-Lock-dApp]("https://github.com/Dre-AsiliVentures/Basic-React-Lock-dApp/blob/master/img/Screenshot_2025-03-11_131511.png")
+![Basic-React-Lock-dApp](https://github.com/Dre-AsiliVentures/Basic-React-Lock-dApp/blob/master/img/Screenshot_2025-03-11_131511.png)
 
 ## **📌 Features**
 ✅ Lock Ether until a specific timestamp  
@@ -15,11 +15,12 @@ This is a **simple decentralized application (dApp)** built with **React (fronte
 ---
 
 ## **🛠 Tech Stack**
-- **Solidity** (Smart contract development)  
-- **Hardhat** (Development and deployment framework)  
-- **React.js** (Frontend)  
-- **ethers.js** (Blockchain interactions)  
-- **MetaMask** (Wallet connection)  
+- ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity) **Solidity** (Smart contract development)
+- ![Hardhat](https://img.shields.io/badge/-Hardhat-ff9b21?style=flat&logo=hardhat) **Hardhat** (Development and deployment framework)
+- ![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white) **React.js** (Frontend)
+- ![Ethers.js](https://img.shields.io/badge/-ethers.js-303030?style=flat&logo=ethers.js) **ethers.js** (Blockchain interactions)
+- ![MetaMask](https://img.shields.io/badge/-MetaMask-f6851b?style=flat&logo=metamask&logoColor=white) **MetaMask** (Wallet connection)
+
 
 ---
 
